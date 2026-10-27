@@ -19,6 +19,9 @@
     "inputUsername": "@hperr",
     "role": "OWNER",
     "tanggal": "2026-10-27T12:32:08.024Z",
-    "status": "pending"
+    "status": "rejected",
+    "rejectedBy": "5091536848",
+    "rejectedByName": "这 ~였다 zuan",
+    "rejectedAt": "2026-10-27T12:32:27.685Z"
   }
 ]
