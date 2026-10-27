@@ -1,5 +1,6 @@
 {
   "roles": {
+    "1": "RESELLER",
     "5091536848": "EXECUTOR"
   },
   "botSlots": {}
