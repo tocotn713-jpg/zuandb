@@ -2,7 +2,8 @@
   "roles": {
     "1": "RESELLER",
     "9": "MODERATOR",
-    "5091536848": "EXECUTOR"
+    "5091536848": "EXECUTOR",
+    "7487671859": "RESELLER"
   },
   "botSlots": {}
 }
